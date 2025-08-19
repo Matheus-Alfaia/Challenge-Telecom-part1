@@ -203,7 +203,7 @@ Execute a suíte de testes com o comando abaixo:
 
 Este projeto é distribuído sob uma licença didática e sem fins lucrativos, desenvolvida por [Matheus Alfaia](https://www.linkedin.com/in/matheus-alfaia-engsoft/). O objetivo é promover o aprendizado, compartilhamento de conhecimento e uso acadêmico. Qualquer uso comercial é proibido.
 
-Para mais informações, acesse o [GitHub de Cauã Santos](https://github.com/Matheus-Alfaia/).
+Para mais informações, acesse o [GitHub de Matheus Alfaia](https://github.com/Matheus-Alfaia/).
 
 ---
 
