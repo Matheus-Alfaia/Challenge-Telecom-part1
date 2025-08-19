@@ -13,10 +13,8 @@
     <em>Libere insights, impulsione inovação, preveja sucesso!</em>
 </p>
 <p align="center">
-    <a href="https://linkedin.com/in/cauasantoslt" target=_blank><img src="https://img.shields.io/badge/Meu%20Perfil-LinkedIn-00fff2?style=default&logo=linkedin&logoColor=00fff2"></a>
-    <img src="https://img.shields.io/github/last-commit/cauasantoslt/telecomX2?style=default&logo=git&logoColor=white&color=00fff2" alt="last-commit">
-    <img src="https://img.shields.io/github/languages/top/cauasantoslt/telecomX2?style=default&color=00fff2" alt="repo-top-language">
-    <img src="https://img.shields.io/github/languages/count/cauasantoslt/telecomX2?style=default&color=00fff2" alt="repo-language-count">
+    <a href="https://www.linkedin.com/in/matheus-alfaia-engsoft/" target=_blank><img src="https://img.shields.io/badge/Meu%20Perfil-LinkedIn-00fff2?style=default&logo=linkedin&logoColor=00fff2"></a>
+    
 </p>
 <p align="center"><!-- opção padrão, sem badges de dependências. -->
 </p>
@@ -93,47 +91,13 @@ TelecomX2 é um projeto inovador que simplifica a extração de dados e aprimora
         <blockquote>
             <table>
             <tr>
-                <td><b><a href='https://github.com/cauasantoslt/telecomX2/blob/master/TelecomX_2ipynb'>TelecomX_2ipynb</a></b></td>
+                <td><b><a href='https://github.com/Matheus-Alfaia/Challenge-Telecom-part1](https://github.com/Matheus-Alfaia/Challenge-Telecom-part1)'>TelecomX_2ipynb</a></b></td>
                 <td>- O arquivo de código TelecomX_2ipynb na estrutura do projeto é focado na extração de dados<br>- Ele desempenha papel crucial na obtenção e processamento de informações relevantes para análise dentro da arquitetura do código.</td>
             </tr>
             </table>
         </blockquote>
     </details>
-    <details> <!-- readme Submodule -->
-        <summary><b>readme</b></summary>
-        <blockquote>
-            <table>
-            <tr>
-                <td><b><a href='https://github.com/cauasantoslt/telecomX2/blob/master/readme/readm-en'>readm-en</a></b></td>
-                <td>Melhora a documentação do projeto traduzindo o arquivo README para Inglês.</td>
-            </tr>
-            <tr>
-                <td><b><a href='https://github.com/cauasantoslt/telecomX2/blob/master/readme/readme-es'>readme-es</a></b></td>
-                <td>Melhora a documentação do projeto traduzindo o arquivo README para espanhol.</td>
-            </tr>
-            </table>
-        </blockquote>
-    </details>
-    <details> <!-- app Submodule -->
-        <summary><b>app</b></summary>
-        <blockquote>
-            <table>
-            <tr>
-                <td><b><a href='https://github.com/cauasantoslt/telecomX2/blob/master/app/app.py'>app.py</a></b></td>
-                <td>- O arquivo <code>app.py</code> orquestra um aplicativo preditivo de churn com tema futurista usando Streamlit<br>- Ele carrega e pré-processa dados, exibe métricas de status do sistema, analisa o impacto de variáveis críticas no churn, fornece visualizações interativas e oferece previsões de churn em tempo real para novos clientes<br>- O arquivo integra diversos componentes para criar uma experiência envolvente e informativa dentro da arquitetura do projeto TelecomX.</td>
-            </tr>
-            <tr>
-                <td><b><a href='https://github.com/cauasantoslt/telecomX2/blob/master/app/requirements.txt'>requirements.txt</a></b></td>
-                <td>- Facilita o gerenciamento de dependências do projeto especificando as bibliotecas necessárias para a aplicação<br>- O arquivo garante integração perfeita de ferramentas essenciais como Streamlit, Pandas, Scikit-learn, Plotly, Joblib e Imbalanced-learn.</td>
-            </tr>
-            <tr>
-                <td><b><a href='https://github.com/cauasantoslt/telecomX2/blob/master/app/salvar_modelo.py'>salvar_modelo.py</a></b></td>
-                <td>- Persiste dados pré-processados, treina um modelo Random Forest e salva arquivos de modelo<br>- O código balanceia dados, padroniza variáveis numéricas e trata valores ausentes<br>- Ele carrega dados, codifica variáveis categóricas, divide dados e ajusta o modelo<br>- Por fim, salva o modelo treinado, scaler e colunas de features para uso futuro.</td>
-            </tr>
-            </table>
-        </blockquote>
-    </details>
-</details>
+    
 
 ---
 
@@ -155,7 +119,7 @@ Instale o telecomX2 usando um dos métodos abaixo:
 1. Clone o repositório telecomX2:
 
 ```sh
-❯ git clone https://github.com/cauasantoslt/telecomX2
+❯ git clone https://github.com/Matheus-Alfaia/Challenge-Telecom-part1
 ```
 
 2. Navegue até o diretório do projeto:
@@ -200,11 +164,7 @@ Execute a suíte de testes com o comando abaixo:
 
 ---
 
-## 🔰 Contribuindo
 
-- **💬 [Participe das Discussões](https://github.com/cauasantoslt/telecomX2/discussions)**: Compartilhe suas ideias, dê feedback ou tire dúvidas.
-- **🐛 [Reporte Problemas](https://github.com/cauasantoslt/telecomX2/issues)**: Envie bugs encontrados ou registre solicitações de funcionalidades para o projeto `telecomX2`.
-- **💡 [Envie Pull Requests](https://github.com/cauasantoslt/telecomX2/blob/main/CONTRIBUTING.md)**: Revise PRs abertos e envie seus próprios PRs.
 
 <details closed>
 <summary>Diretrizes de Contribuição</summary>
@@ -234,20 +194,16 @@ Execute a suíte de testes com o comando abaixo:
 <details closed>
 <summary>Gráfico de Contribuidores</summary>
 <br>
-<p align="left">
-   <a href="https://github.com{/cauasantoslt/telecomX2/}graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=cauasantoslt/telecomX2">
-   </a>
-</p>
+
 </details>
 
 ---
 
 ## 🎗 Licença
 
-Este projeto é distribuído sob uma licença didática e sem fins lucrativos, desenvolvida por [Cauã Santos](https://github.com/cauasantoslt). O objetivo é promover o aprendizado, compartilhamento de conhecimento e uso acadêmico. Qualquer uso comercial é proibido.
+Este projeto é distribuído sob uma licença didática e sem fins lucrativos, desenvolvida por [Matheus Alfaia](https://www.linkedin.com/in/matheus-alfaia-engsoft/). O objetivo é promover o aprendizado, compartilhamento de conhecimento e uso acadêmico. Qualquer uso comercial é proibido.
 
-Para mais informações, acesse o [GitHub de Cauã Santos](https://github.com/cauasantoslt).
+Para mais informações, acesse o [GitHub de Cauã Santos](https://github.com/Matheus-Alfaia/).
 
 ---
 
